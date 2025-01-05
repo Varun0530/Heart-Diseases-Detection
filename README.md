@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a web-based **Heart Disease Detection** project built using **Flask** and **Python**. The application helps predict the likelihood of heart disease based on various medical parameters. The user inputs the required details, and the model provides a prediction on whether the person has heart disease or not.
+This is a web-based **Heart Disease Detection** project built using **Flask** and **Python** and **Machine Learning**. The application helps predict the likelihood of heart disease based on various medical parameters. The user inputs the required details, and the model provides a prediction on whether the person has heart disease or not.
 
 ## Features
 
@@ -14,7 +14,7 @@ This is a web-based **Heart Disease Detection** project built using **Flask** an
 ## Tech Stack
 
 - **Backend**: Flask (Python Web Framework)
-- **Machine Learning**: Python Libraries (e.g., scikit-learn, pandas, numpy) for building the heart disease prediction model
+- **Machine Learning**: Python Libraries (e.g., scikit-learn, pandas, numpy) and **Random Forest** algorithm for building the heart disease prediction model
 - **Deployment**: Vercel
 - **Frontend**: HTML, CSS 
 

@@ -1,4 +1,4 @@
-# Heart Disease Detection Web Application
+# Heart Disease Detection using Machine Learning Web Application
 
 ## Overview
 
